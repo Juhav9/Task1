@@ -1,0 +1,30 @@
+[
+    {
+        "data": {
+            "Item1": 1,
+            "Item2": -1
+        },
+        "result": "Area of 1 and -1 is "
+    },
+    {
+        "data": {
+            "Item1": 5,
+            "Item2": 8
+        },
+        "result": "Area of 5 and 8 is 40"
+    },
+    {
+        "data": {
+            "Item1": 2147483647,
+            "Item2": 2
+        },
+        "result": "Area of 2147483647 and 2 is "
+    },
+    {
+        "data": {
+            "Item1": null,
+            "Item2": 2
+        },
+        "result": "Area of 2 and 0 is 0"
+    }
+]

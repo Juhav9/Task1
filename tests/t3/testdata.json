@@ -1,0 +1,44 @@
+[
+    {
+        "data": {
+            "Item1": 4,
+            "Item2": 6
+        },
+        "result": 24
+    },
+    {
+        "data": {
+            "Item1": 1,
+            "Item2": 1
+        },
+        "result": 1
+    },
+    {
+        "data": {
+            "Item1": -1,
+            "Item2": 1
+        },
+        "result": null
+    },
+    {
+        "data": {
+            "Item1": 1,
+            "Item2": -1
+        },
+        "result": null
+    },
+    {
+        "data": {
+            "Item1": 0,
+            "Item2": 1
+        },
+        "result": 0
+    },
+    {
+        "data": {
+            "Item1": 2147483647,
+            "Item2": 10
+        },
+        "result": null
+    }
+]

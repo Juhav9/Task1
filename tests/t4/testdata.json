@@ -1,0 +1,30 @@
+[
+    {
+        "data": {
+            "Item1": 1,
+            "Item2": -1
+        },
+        "result": "Arguments: 1 -1"
+    },
+    {
+        "data": {
+            "Item1": 5,
+            "Item2": 8
+        },
+        "result": "Arguments: 5 8"
+    },
+    {
+        "data": {
+            "Item1": 2147483647,
+            "Item2": 2
+        },
+        "result": "Arguments: 2147483647 2"
+    },
+    {
+        "data": {
+            "Item1": null,
+            "Item2": 2
+        },
+        "result": "Arguments: 2"
+    }
+]
